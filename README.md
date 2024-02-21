@@ -7,7 +7,7 @@
 
 #### ADS - Advanced Data Structures
 
-##### Question & Ansswers:
+##### Question & Answers:
 
 1. What ADS stands for?
    A: ADS stands as Advanced Data Structures.
